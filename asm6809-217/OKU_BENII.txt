@@ -1,0 +1,1 @@
+usage:   ./asm6809 -H -o program.hex program.asm
